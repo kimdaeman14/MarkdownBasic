@@ -74,7 +74,7 @@
 > # 이미지삽입
 ![이미지이름](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/200px-Markdown-mark.svg.png)
 ![이름](https://c.disquscdn.com/next/embed/assets/img/noavatar92.7b2fde640943965cc88df0cdee365907.png)
-![스샷](https://user-images.githubusercontent.com/34432988/39836935-f60d2368-540f-11e8-9e86-8de4e91dd9b5.png)
+![스샷](https://user-images.githubusercontent.com/34432988/39836935-f60d2368-540f-11e8-9e86-8de4e91dd9b5.png)  
 
 : ![]안에는 이미지이름 ()안에는 파일위치, 인터넷경로도 포함된다.
 
